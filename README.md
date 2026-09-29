@@ -15,8 +15,7 @@ Hi! This is Abrar🙋‍♂️
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
-
-## 🐍 Snake Contribution Game
+## 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrararham476/abrararham476/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrararham476/abrararham476/output/github-snake.svg">
