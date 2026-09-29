@@ -1,7 +1,9 @@
 <div align="center">
-Hi! This is Abrar🙋‍♂️
+<!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=HI_THIS_IS_ABRAR&fontSize=70&fontColor=ffffff" width="100%" alt="Header Banner" />
 
-## 🌐 Socials
+ 
+## 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abrar_10.12)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AbrarArham)
@@ -9,7 +11,7 @@ Hi! This is Abrar🙋‍♂️
 
 ---
 
-## 💻 Tech Stack
+## 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,7 +26,7 @@ Hi! This is Abrar🙋‍♂️
 
 ---
 
-## 📊 GitHub Stats
+## 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=abrararham476&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
